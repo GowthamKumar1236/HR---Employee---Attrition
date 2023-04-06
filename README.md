@@ -1,6 +1,6 @@
 # HR-Employee-Attrition
 
-1.The aim of the project is to classify/predict whether an employee continuous to stay in the company or not and also to derive insights about employee retention or departure.
+The aim of the project is to classify/predict whether an employee continuous to stay in the company or not and also to derive insights about employee retention or departure.
 
 2.Performed EDA to identify the features that are affecting the attrition with the help of descriptive and data visualization.
 
